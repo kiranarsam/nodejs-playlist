@@ -7,7 +7,7 @@ Add your mongodb cloud cluster db path string to work, other than practices fold
 # mongodb cloud cluster connection string, example
 Add connection string to connect
 # example
-mongoose.connect('<Add connection string here to work the full sample app>', {useNewUrlParser: true});
+mongoose.connect("Add_your_connection_string_here_to_work_this_main_tutorial_app", {useNewUrlParser: true});
 
 # npm installation
 Clone the git repository.
